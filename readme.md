@@ -41,4 +41,4 @@
 
 ### 安装
 
-安装方式以及其他文档请移步: [文档](https://github.com/coolseven/laravel-vue-spa-admin/docs/index.md)
+安装方式以及其他文档请移步: [文档](https://github.com/coolseven/laravel-vue-spa-admin/blob/master/docs/index.md)
