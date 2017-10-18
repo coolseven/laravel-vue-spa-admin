@@ -23,7 +23,7 @@
 
 ### Credit
 - visited-tabs 等组件,参(cao)考(xi) 了 https://github.com/PanJiaChen/vue-element-admin 的实现
-- example 目录下的组件,均由 https://github.com/evan-li 提供
+- 页面加载动画, 左侧菜单树折叠, 以及 `/resource/assets/js/admin/components/example` 目录下的示例组件,均由 https://github.com/evan-li 提供
 
 ### 预览
 
